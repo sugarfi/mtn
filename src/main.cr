@@ -72,7 +72,7 @@ get "/" do
 
                     a.freeze = true
 
-                    a.duration = SUNSET_DURATION * 1.5
+                    a.duration = SUNSET_DURATION
                     a.duration_units = "s"
 
                     a.from = y
