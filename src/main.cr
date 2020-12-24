@@ -4,7 +4,7 @@ require "celestine"
 WIDTH = 800
 HEIGHT = 400
 
-MTN_DEPTH = 5
+MTN_DEPTH = 4
 MTN_WIDTH = WIDTH / 2
 MTN_HEIGHT = 200
 MTN_Y = HEIGHT
